@@ -155,6 +155,7 @@ ${prefix}يعطيك عقابات قاسية / عقاب
 welcome يتم الترحيب فى روم باسم
 G.setwelcomer <text channel name> لاختيار روم للترحيب
 ${prefix}voiceonline / لتفعيل روم الفويس اونلاين
+Inv bot:https://discordapp.com/oauth2/authorize?client_id=558939836124495873&permissions=8&scope=bot
 **
    
 `]
